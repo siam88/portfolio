@@ -1,4 +1,4 @@
-import { getData } from "./fetchPageData";
+import { getData } from "@utils/fetchPageData";
 import { metaDataGenerator } from "./metaDataGenerator";
 
 type Props = {
